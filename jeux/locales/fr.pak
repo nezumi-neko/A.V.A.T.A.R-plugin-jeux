@@ -1,0 +1,33 @@
+{
+    "message": {
+        "tts":"voilà|tout de suite|c'est fait",
+        "choix":"J'ai choisit :",
+        "resultat":"Le résultat est :",
+        "jeux2dede1":" pour le dé 1, et ",
+        "jeux2dede2":" pour le dé 2.",
+        "pilefaceaskme":"Pile ou face ? Faites votre choix ou dites 'annuler' pour quitter.|okay on joue à pile ou face, à toi l'honneur, que choisi tu ?|super, j'adore ce jeu, je te laisse choisir, tu prend pile ou face ?|avec plaisir choisi le côté que tu veux",
+        "pilechoix":"Vous avez choisi pile.|okay, alors c'est moi qui prend face|D'accord, du coup moi je prend face",
+        "facechoix":"Vous avez choisi face.|okay,  alors c'est moi qui prend pile|D'accord, du coup, moi je prend pile",
+        "win":"Félicitations ! Vous avez gagné, c'était",        
+        "lose":"Dommage, vous avez perdu. La pièce est tombée sur",
+        "welcome":"Bienvenue au jeu de Blackjack !",
+        "tirerrester":"Voulez-vous tirer une carte ou rester ?",
+        "invalid":"Choix invalide. Veuillez dire tirer ou rester.",
+        "liaison":" de ",
+        "and":" et ",
+        "joueurmain":"Vous avez tirez les cartes :",
+        "joueurpoint":". Votre total de point est de :",
+        "joueurtirermain":"Vous avez tirez la carte :",
+        "joueurtirerpoint":"Votre total de point est maintenant de :",
+        "win21":"Félicitations, vous avez un Blackjack !",
+        "over21":"Dommage, vous avez dépassé 21. Vous avez perdu !",
+        "stand":"Vous avez choisi de rester avec un total de :",
+        "croupiertour":"Le croupier joue maintenant.",
+        "croupiermain":"La carte visible du croupier est un :",
+        "croupiernewval":"Le croupier tire :",
+        "croupiernewpoint":"Son total est maintenant de",
+        "gametie":"Égalité !",
+        "croupierwin":"Le croupier a gagné. Bonne chance pour la prochaine fois !",
+        "joueurwin":"Félicitations, vous avez gagné contre le croupier !"
+    }
+}

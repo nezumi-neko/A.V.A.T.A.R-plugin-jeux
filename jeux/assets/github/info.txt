@@ -1,0 +1,12 @@
+
+Un plugin permettant de jouer à des jeux basés sur le hasard :
+- Lancer un ou deux dés virtuels.
+- Tirer une carte au hasard d’un jeu de 52 cartes.
+- Jouer à pile ou face avec une pièce virtuelle.
+- Affronter un croupier virtuel au Blackjack.
+
+A plugin for playing games based on chance:
+- Roll one or two virtual dice.
+- Draw a random card from a 52-card deck.
+- Play heads or tails with a virtual coin.
+- Face off against a virtual dealer in Blackjack.

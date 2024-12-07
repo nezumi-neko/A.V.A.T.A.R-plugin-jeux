@@ -1,0 +1,33 @@
+{
+    "message": {
+        "tts":"Here you go|Right away|It's done",
+        "choix":"I chose:",
+        "resultat":"The result is:",
+        "jeux2dede1":" for die 1, and ",
+        "jeux2dede2":" for die 2.",
+        "pilefaceaskme":"Heads or tails? Make your choice or say 'cancel' to quit.|Okay, let's play heads or tails, your turn, what's your choice?|Great, I love this game, I'll let you choose, heads or tails?|With pleasure, pick the side you want",
+        "pilechoix":"You chose heads.|Okay, so I’ll take tails|Alright, then I’ll take tails",
+        "facechoix":"You chose tails.|Okay, so I’ll take heads|Alright, then I’ll take heads",
+        "win":"Congratulations! You won, it was",        
+        "lose":"Too bad, you lost. The coin landed on",
+        "welcome":"Welcome to the Blackjack game!",
+        "tirerrester":"Would you like to draw a card or stay?",
+        "invalid":"Invalid choice. Please say draw or stay.",
+        "liaison":" of ",
+        "and":" and ",
+        "joueurmain":"You drew the cards:",
+        "joueurpoint":". Your total points are:",
+        "joueurtirermain":"You drew the card:",
+        "joueurtirerpoint":"Your total points are now:",
+        "win21":"Congratulations, you have a Blackjack!",
+        "over21":"Too bad, you went over 21. You lost!",
+        "stand":"You chose to stay with a total of:",
+        "croupiertour":"The dealer is now playing.",
+        "croupiermain":"The dealer's visible card is:",
+        "croupiernewval":"The dealer draws:",
+        "croupiernewpoint":"Their total is now",
+        "gametie":"It's a tie!",
+        "croupierwin":"The dealer won. Better luck next time!",
+        "joueurwin":"Congratulations, you beat the dealer!"
+    }
+}
